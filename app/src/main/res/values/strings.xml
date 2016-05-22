@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IDdetector</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_id">5735f117</string>
+    <string name="demo_introduction">讯飞声纹服务提供文本和数字两种类型的声纹密码。本示例中通过详尽的演示代码和注释，帮助开发者快速集成SDK。</string>
+</resources>
